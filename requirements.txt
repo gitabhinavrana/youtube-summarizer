@@ -1,4 +1,6 @@
-transformers
-torch
-gradio
+transformers==4.41.2
 youtube-transcript-api
+sentencepiece
+torch
+gradio==4.11.0
+numpy>=2.0
